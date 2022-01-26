@@ -7,8 +7,9 @@ let desconto = 0.4;
 let precoComDesconto = preco * (1 - desconto);
 console.log(precoComDesconto);
 
-let nome = "caderno"
-let categoria = "papelaria";
-console.log("produto: " + nome 
-	+ ", categoria: " + categoria
-	+ ", preco: " + preco);
+let nome = "caderno"; // String (Texto) -> Sequencia de simbolos
+let categoria = "Papelaria";
+console.log("Produto: " + nome 
+	+ ", Categoria: " + categoria
+	+ ", Preco: " + preco
+	+ ", Desconto: " + desconto);
