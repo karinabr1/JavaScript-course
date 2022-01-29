@@ -4,7 +4,7 @@
 * ->recebe parametros de entrada
 * ->executa
 * ->retorna
-* ->varias possibilidades*/
+* ->varias pobilissidades s*/
 
 //Funcao sem retorno
 function imprimirSoma(a, b) {
